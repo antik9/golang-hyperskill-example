@@ -1,0 +1,9 @@
+type: hyperskill
+title: Writing to a file in Go
+language: English
+summary: This is a task for Go track
+vendor:
+  name: Antik
+programming_language: Python
+content:
+- Writing to a file in Go
